@@ -46,5 +46,6 @@ export PATH=~/.local/bin:$PATH
 
 # brew install --cask anaconda
 export PATH=/usr/local/anaconda3/bin:$PATH
+conda config --set ssl_verify no
 
 
