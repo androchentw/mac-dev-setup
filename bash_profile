@@ -45,6 +45,6 @@ export PATH=~/.local/bin:$PATH
 [[ -f "$HOME/.fig/shell/bash_profile.post.bash" ]] && . "$HOME/.fig/shell/bash_profile.post.bash"
 
 # Anaconda3 
-export PATH=~/anaconda3/bin:$PATH
+export PATH=/usr/local/anaconda3/bin:$PATH
 
 
