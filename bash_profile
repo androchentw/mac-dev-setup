@@ -44,7 +44,7 @@ export PATH=~/.local/bin:$PATH
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/bash_profile.post.bash" ]] && . "$HOME/.fig/shell/bash_profile.post.bash"
 
-# Anaconda3 
+# brew install --cask anaconda
 export PATH=/usr/local/anaconda3/bin:$PATH
 
 
